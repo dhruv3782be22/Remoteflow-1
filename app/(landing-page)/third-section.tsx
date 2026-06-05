@@ -82,7 +82,7 @@ const ThirdSection = () => {
                     className="pt-2 xl:pt-0 w-10 xl:w-14"
                 />
                 <div className="text-center">
-                    <div className="text-sm font-medium pt-4">Dipesh Dahiya</div>
+                    <div className="text-sm font-medium pt-4">Dhruv malhotra</div>
                     <div className="text-sm">Creator and Manager of RemoteFlow</div>
                 </div>
             </motion.div>
